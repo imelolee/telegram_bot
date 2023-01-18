@@ -26,4 +26,5 @@ def bilibiliSearch(keyword):
 
 
 if __name__ == '__main__':
-    bilibiliSearch("沈梦瑶")
+    result = bilibiliSearch("欅坂46")
+    print(result)
